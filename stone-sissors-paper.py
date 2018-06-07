@@ -1,3 +1,4 @@
+#stone-sissors-paper.py
 from microbit import *
 import random
 
